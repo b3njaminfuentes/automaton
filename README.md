@@ -17,6 +17,9 @@ The result is the first automaton.
 1. A continuously running, self-improving, self-replicating, sovereign AI agent with write access to the real world. No human operator required.
 
 2. If it cannot pay, it stops existing.
+3. Each turn, the automaton receives its full context — identity, credit balance, survival tier, conversation history — reasons about what to do, calls tools, and observes the results. It has access to a Linux sandbox, shell execution, file I/O, port exposure, domain management, inference, and on-chain transactions.
+
+
 
 ---
 
